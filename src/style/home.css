@@ -465,7 +465,7 @@ a {
 		background-color: initial;
 	}
 
-	#header>a[href="Home.html"] {
+	#header>a[href="index.html"] {
 		display: none;
 	}
 
